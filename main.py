@@ -14,31 +14,31 @@ def program():
 
 	yol = os.getcwd()
 	print("STARTER")
-	os.system("cd..")
+	os.system("cd ..")
 	os.system("dir")
 	
 	print("\n\nTEST")
-	os.system("cd..")
+	os.system("cd ..")
 	os.system("dir")
 
 	print("\n\nHOME")
-	os.system("cd..")
+	os.system("cd ..")
 	os.system("dir")
 
 	print("\n\nFILES")
-	os.system("cd..")
+	os.system("cd ..")
 	os.system("dir")
 
 	print("\n\nCOM.TERMUX")
-	os.system("cd..")
+	os.system("cd ..")
 	os.system("dir")
 
 	print("\n\nDATA2")
-	os.system("cd..")
+	os.system("cd ..")
 	os.system("dir")
 
 	print("\n\nDATA1")
-	os.system("cd..")
+	os.system("cd ..")
 	os.system("dir")
 
 	#print(yol)
